@@ -5,4 +5,4 @@ var message = `${name} is ${height} inches tall`
 var message2 = `${height} inches is how tall ${name} is`
 module.exports = {name, height, message}
 console.log(message)
-console.log(message2)
+console.log(message)
